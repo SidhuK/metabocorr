@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Viga&display=swap");
+
+h1 {
+  font-family: "Viga", serif;
+  font-size: 3.2em;
+  font-weight: 700;
+  color: #0077b6;
+  text-align: center;
+  margin: 0;
+  padding: 10px;
+}
+
+h2 {
+  font-family: "Viga", serif;
+  font-size: 2.2em;
+  font-weight: 700;
+  color: #0077b6;
+  text-align: center;
+  margin: 0;
+  padding: 5px;
+}
+
+h3 {
+  font-family: "Viga", serif;
+  font-size: 1.8em;
+  font-weight: 700;
+  color: #0077b6;
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+}
+
+h4 {
+  font-family: "Viga", serif;
+  font-size: 1.5em;
+  font-weight: 500;
+  color: #0077b6;
+  margin: 0;
+  padding: 0;
+}
+
+h5 {
+  font-family: "Viga", serif;
+  color: #023e8a;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 1.2em;
+  line-height: 1.6;
+  text-align: justify;
+  font-weight: 400;
+  color: #2e2e2e;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #0077b6;
+  text-decoration: none;
+  font-family: "Fira Sans", sans-serif;
+  font-size: 1.2em;
+  line-height: 1.6;
+}
+
+body {
+  font-family: "Fira Sans", Helvetica, sans-serif;
+  line-height: 1.5;
+  color: #666;
+  margin: 0;
+  padding: 2em;
+  border: 4px solid #0077b6;
+}
+
+.nav {
+  background-color: #ececec;
+  color: #ffffff;
+  border-radius: 10px;
+}
+
+.page-footer {
+  border-radius: 10px;
+  text-align: center;
+}
+
+.help-block {
+  color: #0077b6;
+  text-align: center;
+  font-weight: 500;
+}
+
+.btn-primary {
+  background-color: #0077b6;
+  border-color: #0077b6;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.container-fluid {
+  background-color: #ececec;
+  border-radius: 15px;
+  border-width: 1px;
+  border-color: #2e2e2e;
+}
+
+.well {
+  background-color: #90e0ef;
+  border-radius: 10px;
+  border-color: #2e2e2e;
+  border-width: 1px;
+}
+
+#download {
+  background-color: #0077b6;
+  border-radius: 10px;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px;
+}
+
+.nav-tabs > li {
+  background: #ececec;
+  border-radius: 10px;
+}
+
+.nav-tabs > li.active > a {
+  background: #ffffff;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: #2e2e2e;
+}
