@@ -2,7 +2,9 @@
 
 ## An R/Shiny based application for visualization of metabolomics data in the form of correlation matrices
 
-![GitHub last commit](https://img.shields.io/github/last-commit/sidhuk/MetaboCorr)
+![GitHub last commit](https://img.shields.io/github/last-commit/sidhuk/MetaboCorr) [![DOI](https://zenodo.org/badge/605995016.svg)](https://zenodo.org/badge/latestdoi/605995016)
+
+
 
 Available online at [here](https://karat.shinyapps.io/MetaboCorr/) or locally using the source code in this repository.
 
@@ -124,8 +126,8 @@ If you use this app in your research, please use the following citation:
   year         = 2023,
   publisher    = {Zenodo},
   version      = {1.0},
-  doi          = {10.5281/zenodo.7631526},
-  url          = {https://doi.org/10.5281/zenodo.7631526}
+  doi          = {10.5281/zenodo.7674084},
+  url          = {https://doi.org/10.5281/zenodo.7674084}
 }
 
 ```
